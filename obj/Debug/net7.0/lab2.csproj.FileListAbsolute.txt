@@ -1,0 +1,28 @@
+D:\trash\OOP\borko\lab2\lab2\bin\Debug\net7.0\lab2.exe
+D:\trash\OOP\borko\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\trash\OOP\borko\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\trash\OOP\borko\lab2\lab2\bin\Debug\net7.0\lab2.dll
+D:\trash\OOP\borko\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.dll
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\trash\OOP\borko\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\bin\Debug\net7.0\lab2.exe
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\bin\Debug\net7.0\lab2.deps.json
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\bin\Debug\net7.0\lab2.dll
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\bin\Debug\net7.0\lab2.pdb
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.dll
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\refint\lab2.dll
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.pdb
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+C:\Users\dmytr\OneDrive\Рабочий стол\lab2\obj\Debug\net7.0\ref\lab2.dll
